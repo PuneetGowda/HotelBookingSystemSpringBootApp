@@ -5,3 +5,6 @@
 5. For getting a hotel with an id, use GET request with url: http://localhost:8080/hotelbookingsystem/api/hotels/101
 6. For getting bookings of a hotel, http://localhost:8080/hotelbookingsystem/api/hotels/101/bookings
 7. For getting employees, http://localhost:8080/hotelbookingsystem/api/hotels/101/employees
+8. For adding a employee, use POST Request Method with url: http://localhost:8080/hotelbookingsystem/api/hotels
+9. For deleting, use DELETE Request Method
+10. For updating, use PUT Request method, htto://localhost:8080/hotelbookingsystem/api/hotels/101
